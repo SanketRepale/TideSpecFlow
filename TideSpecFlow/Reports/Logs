@@ -1,0 +1,17 @@
+[2022-07-29 23:05:48 INF] selecting feature file TideWebApplication to run
+[2022-07-29 23:05:48 INF] selecting scenario Contactus to run
+[2022-07-29 23:06:01 INF] selecting scenario CouponsAndRewards to run
+[2022-07-29 23:06:19 INF] selecting scenario HowToWashCloths to run
+[2022-07-29 23:06:49 INF] selecting scenario LoginWithInValidDetails to run
+[2022-07-29 23:07:02 INF] selecting feature file TideWebApplication to run
+[2022-07-29 23:07:03 INF] selecting scenario Contactus to run
+[2022-07-29 23:07:15 INF] selecting scenario CouponsAndRewards to run
+[2022-07-29 23:07:32 INF] selecting scenario HowToWashCloths to run
+[2022-07-29 23:07:50 INF] selecting scenario LoginWithInValidDetails to run
+[2022-07-29 23:08:14 INF] selecting scenario LoginWithValidDetails to run
+[2022-07-29 23:08:36 INF] selecting scenario SearchBox to run
+[2022-07-29 23:08:56 INF] selecting scenario ShopProducts to run
+[2022-07-29 23:09:24 INF] selecting scenario SignupWithInValidDetails to run
+[2022-07-29 23:09:47 INF] selecting scenario SignupWithValidDetails to run
+[2022-07-29 23:10:08 INF] selecting scenario WebpageLanguageChange to run
+[2022-07-29 23:10:19 INF] selecting scenario WhatsNew to run
